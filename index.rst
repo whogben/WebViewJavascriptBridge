@@ -16,3 +16,6 @@ Find information on specific topics using the table of contents below and in the
    - The note contains all indented body elements
      following.
    - It includes this bullet list.
+
+.. toctree::
+   :maxdepth: 2
